@@ -7,3 +7,7 @@ body {
 body h1:nth-of-type(1) {
     color: hotpink;
 }
+
+h1:hover {
+    background-color: skyblue;
+}
